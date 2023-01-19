@@ -1,0 +1,15 @@
+apt-utils
+wireless-tools
+net-tools
+lspci
+iw
+firmware-iwlwifi
+terminator
+zsh
+keepass2
+passwd
+python3
+python3-pip
+python3-venv
+codium
+openvpn
