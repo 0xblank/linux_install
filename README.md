@@ -19,3 +19,17 @@ You can edit the packages and git_repositories files to install your own package
 ##  How to contribute
 
 Create an issue or a pull request and I will check it out.
+
+##  TO DO list
+
+[ ] Add git repositories
+[ ] Add debian repositories for
+    [ ] codium
+    [ ] lspci
+    [ ] firmware_iwlwifi
+    [ ] poetry
+[ ] Put config files in the right spots
+    [ ] i3
+    [ ] terminator
+[ ] Add github actions to build the image and check everything work
+[ ] Add a menu with options
