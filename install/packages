@@ -19,3 +19,5 @@ i3
 curl
 wget
 poetry
+htop
+tree

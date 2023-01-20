@@ -40,6 +40,7 @@ Create an issue or a pull request and I will check it out.
     - [ ] (maybe) VM ware workstation pro
     - [ ] (maybe) virtualbox
     - [ ] Vagrant
+    - [ ] Obsidian
 - [ ] Generate rsa keys pairs
     - [ ] github
     - [ ] gitlab
