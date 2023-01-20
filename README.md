@@ -38,11 +38,15 @@ Create an issue or a pull request and I will check it out.
     - [ ] Exegol
     - [ ] Burp
     - [ ] (maybe) VM ware workstation pro
+    - [ ] (maybe) virtualbox
+    - [ ] Vagrant
 - [ ] Generate rsa keys pairs
     - [ ] github
     - [ ] gitlab
 - [ ] Check if the image exists before deleting it
 - [ ] Add github actions to build the image and check everything work
+    - [ ] Add tests to check everything is installed
+    - [ ] Add github action to build the image and run the tests
 - [ ] Add a menu with options
 - [ ] Add commands wrapper (like exegol)
 - [ ] Add log file
