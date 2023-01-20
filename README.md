@@ -31,5 +31,12 @@ Create an issue or a pull request and I will check it out.
 [ ] Put config files in the right spots
     [ ] i3
     [ ] terminator
+[ ] Make custom installs
+    [ ] Docker
+    [ ] Starship
+[ ] Generate rsa keys pairs
+    [ ] github
+    [ ] gitlab
+[ ] Check if the image exists before deleting it
 [ ] Add github actions to build the image and check everything work
 [ ] Add a menu with options
