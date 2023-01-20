@@ -34,6 +34,10 @@ Create an issue or a pull request and I will check it out.
 - [ ] Make custom installs
     - [ ] Docker
     - [ ] Starship
+    - [ ] Vagrant
+    - [ ] Exegol
+    - [ ] Burp
+    - [ ] (maybe) VM ware workstation pro
 - [ ] Generate rsa keys pairs
     - [ ] github
     - [ ] gitlab
