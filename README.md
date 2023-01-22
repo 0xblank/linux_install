@@ -1,9 +1,11 @@
 #   Linux install
 
 <div align="center">
+    <br>
     <img alt="Python3.9" src="https://img.shields.io/badge/Python-3.9+-informational">
     <img alt="current version" src="https://img.shields.io/badge/debian-supported-success">
     <img alt="current version" src="https://img.shields.io/badge/ubuntu-supported-success">
+    </br>
 </div>
 
 Simple scripts I decided to write to automate my linux installations after (way) too many of them done manually.
@@ -12,7 +14,7 @@ Simple scripts I decided to write to automate my linux installations after (way)
 
 > The docker and the build things are just here for testing purposes.
 
-This projet was inspired by [exegol](https://github.com/ThePorgs/Exegol). Go check it out !
+This projet was inspired by [exegol](https://github.com/ThePorgs/Exegol). Awesome project, go check it out !
 
 ##  How to use
 
