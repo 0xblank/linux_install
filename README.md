@@ -59,6 +59,7 @@ Create an issue or a pull request and I will check it out.
     - [ ] (maybe) virtualbox
     - [ ] Vagrant
     - [ ] Obsidian
+    - [ ] Helix
 - [ ] Generate rsa keys pairs
     - [ ] github
     - [ ] gitlab
