@@ -81,4 +81,4 @@ Create an issue or a pull request and I will check it out.
 
 ### Other
 
-- Add other distribution support (like arch)
+- [ ] Add other distribution support (like arch)
