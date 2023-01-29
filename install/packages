@@ -21,3 +21,4 @@ poetry
 htop
 tree
 cargo
+virtualbox
