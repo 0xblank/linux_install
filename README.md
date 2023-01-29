@@ -47,9 +47,10 @@ Create an issue or a pull request and I will check it out.
     - [ ] terminator
     - [ ] zshrc
 - [ ] Make custom installs
+    - [ ] rust and the cargo crates from `crates` files
+    - [ ] go
     - [ ] oh my zsh
         - [ ] zinit
-        - [ ] plugins from zsh_plugin file
     - [ ] Docker
     - [ ] Starship
     - [ ] Vagrant
