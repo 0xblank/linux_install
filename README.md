@@ -41,12 +41,15 @@ Create an issue or a pull request and I will check it out.
 - [ ] Add debian/ubuntu repositories for
     - [ ] codium
     - [ ] lspci
-    - [ ] firmware_iwlwifi
     - [ ] poetry
 - [ ] Put config files in the right spots
     - [ ] i3 or sway
     - [ ] terminator
+    - [ ] zshrc
 - [ ] Make custom installs
+    - [ ] oh my zsh
+        - [ ] zinit
+        - [ ] plugins from zsh_plugin file
     - [ ] Docker
     - [ ] Starship
     - [ ] Vagrant
@@ -61,12 +64,21 @@ Create an issue or a pull request and I will check it out.
     - [ ] gitlab
     - [ ] servers
 
-### Automation
+### Ease of use
+
+- [ ] Add commands wrapper with multiple options (like exegol)
+    - [ ] (maybe) create multiple premade profiles
+    - [ ] (maybe) add fully customisable install (chose of packets, repos, shell ...)
+- [ ] Add log file
+
+### Testing
 
 - [ ] Check if the image exists before deleting it
 - [ ] Add github actions to build the image and check everything work
     - [ ] Add tests to check everything is installed
     - [ ] Add github action to build the image and run the tests
 - [ ] Add a menu with options
-- [ ] Add commands wrapper (like exegol)
-- [ ] Add log file
+
+### Other
+
+- Add other distribution support (like arch)
