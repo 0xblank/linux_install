@@ -4,7 +4,7 @@
     <br>
     <img alt="Python3.9" src="https://img.shields.io/badge/Python-3.9+-informational">
     <img alt="current version" src="https://img.shields.io/badge/debian-supported-success">
-    <img alt="current version" src="https://img.shields.io/badge/ubuntu-supported-success">
+    <img alt="current version" src="https://img.shields.io/badge/ubuntu-not_supported-red">
     </br>
 </div>
 
